@@ -3,7 +3,7 @@
   "description": "Swagger Editor",
   "version": "3.1.20",
   "main": "dist/swagger-editor.js",
-  "repository": "git@github.com:swagger-api/swagger-editor.git",
+  "repository": "git@github.com:fex-net/swagger-editor.git",
   "license": "Apache-2.0",
   "contributors": [
     "(in alphabetical order)",
@@ -59,7 +59,7 @@
     "react-transition-group": "^1.1.1",
     "redux": "^3.x.x",
     "swagger-client": "^3.4.2",
-    "swagger-ui": "^3.7.0",
+    "swagger-ui": "fex-net/swagger-ui#fex",
     "whatwg-fetch": "^2.0.3"
   },
   "devDependencies": {
